@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emran creator and sole proprietor of @Emrandotcom
 - 👀 I’m interested in coding, problem-solving and learning new things
-- 📫 Check out my CV --> https://emrandotcom.github.io/cv/
+- 📫 Check out my CV --> https://emrandotcom.github.io/CV/
 
 <!---
 Emrandotcom/Emrandotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
